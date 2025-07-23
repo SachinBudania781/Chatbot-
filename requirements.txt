@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+jinja2
+langchain
+langchain-community
+langchain-groq
+chromadb
+sentence-transformers
+huggingface-hub
